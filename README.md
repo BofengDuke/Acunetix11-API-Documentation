@@ -21,15 +21,15 @@ Content-type: application/json; charset=utf8
 
 ## 文档目录(Contents)
 
-* 1 . [Dashboard接口](https://github.com/h4rdy/Acunetix11-API-Documentation/blob/master/Document/Dashboard.md)
-* 2 . [Targets接口](https://github.com/h4rdy/Acunetix11-API-Documentation/blob/master/Document/Targets/main.md)
+* 1 . [Dashboard接口](./Document/Dashboard.md)
+* 2 . [Targets接口](./Document/Targets/main.md)
     
-    * a). [General设置](https://github.com/h4rdy/Acunetix11-API-Documentation/blob/master/Document/Targets/scan.md)
-    * b). [Crawl设置](https://github.com/h4rdy/Acunetix11-API-Documentation/blob/master/Document/Targets/scan.md)
-    * c). [HTTP设置](https://github.com/h4rdy/Acunetix11-API-Documentation/blob/master/Document/Targets/scan.md)
-    * d). [Advanced设置](https://github.com/h4rdy/Acunetix11-API-Documentation/blob/master/Document/Targets/scan.md)
-* 3 . [Scans接口](https://github.com/h4rdy/Acunetix11-API-Documentation/blob/master/Document/Scans/main.md)
-* 4 . [Vulnerabilities接口](https://github.com/h4rdy/Acunetix11-API-Documentation/blob/master/Document/Vulnerabilities/main.md)
-* 5 . [Reports接口](https://github.com/h4rdy/Acunetix11-API-Documentation/blob/master/Document/Reports/main.md)
+    * a). [General设置](./Document/Targets/scan.md)
+    * b). [Crawl设置](./Document/Targets/scan.md)
+    * c). [HTTP设置](./Document/Targets/scan.md)
+    * d). [Advanced设置](./Document/Targets/scan.md)
+* 3 . [Scans接口](./Document/Scans/main.md)
+* 4 . [Vulnerabilities接口](./Document/Vulnerabilities/main.md)
+* 5 . [Reports接口](./Document/Reports/main.md)
      
 
