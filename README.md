@@ -1,7 +1,7 @@
 # Acunetix11-API-Documentation
 
 * Acunetix11伪API,非官方API文档。官方API需要 Enterprise edition licenses才能获取到。
-* 先更一部分，有时间慢慢更。有问题提issue或者pr。
+* 本文档是根据[Acunetix11-API-Documentation](https://github.com/h4rdy/Acunetix11-API-Documentation#acunetix11-api-documentation) 这份文档进一步修改,增加了scan模块和vulnerablility模块中获取漏洞信息的api.
 
 ## 获取API-KEY
 Administrator--Profile--API Key
